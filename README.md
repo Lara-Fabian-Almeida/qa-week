@@ -6,6 +6,6 @@ Este projeto tem como objetivo promover um contato prático com o Cypress e o Pe
 - Cypress;
 - Percy.
 
-#### :pager: *Sites* úteis:
+### :pager: *Sites* úteis:
 - [Percy](https://percy.io/);
 - [Cypress](https://www.cypress.io/).
